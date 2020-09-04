@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app2</string>
+    <string name="username">username:%1$s</string>
+    <string name="token">token:%1$s</string>
+</resources>

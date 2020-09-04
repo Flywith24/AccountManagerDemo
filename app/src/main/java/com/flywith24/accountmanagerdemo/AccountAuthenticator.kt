@@ -12,7 +12,7 @@ import android.os.Bundle
  * time   11:52
  * description
  */
-class AccountAuthenticator(private val context: Context) : AbstractAccountAuthenticator(context) {
+class AccountAuthenticator(context: Context) : AbstractAccountAuthenticator(context) {
 
     override fun addAccount(
         response: AccountAuthenticatorResponse, accountType: String, authTokenType: String?,
